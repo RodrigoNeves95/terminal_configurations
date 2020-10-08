@@ -8,3 +8,6 @@ https://github.com/gibbling/dircolors
 
 
 https://github.com/cjbassi/gotop
+
+# how to make a good repository to myself and a bunch of new ideas
+https://github.com/hamvocke/dotfiles
