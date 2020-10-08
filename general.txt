@@ -1,4 +1,8 @@
 #colorsceme
 https://mayccoll.github.io/Gogh/
 
+#MacOs only
+# dircolors utility to match same style as GNU
+# use dircolors.ansi-dark
+https://github.com/gibbling/dircolors
 
