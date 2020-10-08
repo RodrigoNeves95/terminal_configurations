@@ -6,3 +6,5 @@ https://mayccoll.github.io/Gogh/
 # use dircolors.ansi-dark
 https://github.com/gibbling/dircolors
 
+
+https://github.com/cjbassi/gotop
