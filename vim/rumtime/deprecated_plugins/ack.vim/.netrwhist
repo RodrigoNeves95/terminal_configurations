@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/Users/rneves/Desktop/Jungle/code/liana/workflows/ml-pipeline'
+let g:netrw_dirhist_2='/Users/rneves/Desktop/Jungle/code/liana/workflows'
+let g:netrw_dirhist_1='/Users/rneves/Desktop/Jungle/code/liana'
+let g:netrw_dirhist_0='/Users/rneves/Desktop/Jungle/code'
+let g:netrw_dirhist_9='/Users/rneves/Desktop/Jungle'
+let g:netrw_dirhist_8='/Users/rneves/Desktop'
+let g:netrw_dirhist_7='/Users/rneves'
+let g:netrw_dirhist_6='/Users/rneves/.vim_runtime/vimrcs'
+let g:netrw_dirhist_5='/Users/rneves/.vim_runtime'
+let g:netrw_dirhist_4='/Users/rneves'
