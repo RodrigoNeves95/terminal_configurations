@@ -1,0 +1,8 @@
+services
+workspace.showOutput
+pyright.restartserver
+python.setInterpreter
+pytho.setInterpreter
+python.sortImports
+python.runLinting
+editor.action.pickColor

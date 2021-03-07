@@ -1,0 +1,10 @@
+{
+    "pyright.enable":true,
+    "diagnostic.displayByAle": true,
+    "python.linting.enabled": true,
+    "python.analysis.typeCheckingMode": "off",
+    "diagnostic.level": "information",
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": ["--max-line-length=88", "--max-complexity=20" , "--ignore=E203,W503"],
+    "coc.preferences.jumpCommand": "drop"
+}
